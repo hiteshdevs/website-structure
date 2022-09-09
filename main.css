@@ -1,0 +1,48 @@
+*{
+    /* margin: 0;
+    padding: 0; */
+    background-color: #1CBB84;
+}
+
+.mainFrame{
+    height: 800px;
+    width: 100%;
+}
+
+.mainFrame .head{
+    height: 40px;
+    width: 100%;
+    background-color: #E2E2E2;
+}
+
+.mainFrame .box{
+    height: 400px;
+    width: 100%;
+    background-color: #1CBB84;
+    display: inline-flex;
+}
+
+.mainFrame .box .left{
+    height: 600px;
+    width: 20%;
+    background-color: #FFDE59;
+}
+
+.mainFrame .box .body{
+    height: 600px;
+    width: 80%;
+    background-color: red;
+}
+
+.mainFrame .box .right{
+    height: 600px;
+    width: 20%;
+    background-color: #006EFF;
+}
+
+.mainFrame .footer {
+    margin-top: -10px;
+    height: 100px;
+    width: 100%;
+    background-color: #5E17EB;
+}
